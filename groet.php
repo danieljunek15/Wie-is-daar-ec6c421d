@@ -1,4 +1,4 @@
 <?php
-echo "gello gebruiker\n";
+echo "gello gebruiker" .PHP_EOL;
 $gello=readline();
-echo "De Gebruiker zegt: " , $gello;
+echo "De Gebruiker zegt: " . $gello;
