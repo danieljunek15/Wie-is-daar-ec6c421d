@@ -1,3 +1,4 @@
 <?php
-echo "gello";
-readline();
+echo "gello gebruiker\n";
+$gello=readline();
+echo "De Gebruiker zegt: " , $gello;
